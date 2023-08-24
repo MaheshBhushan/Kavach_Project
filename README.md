@@ -24,12 +24,12 @@ Overall, our front-end website serves as a valuable tool for individuals facing 
 
 2. Install a python interpreter software:
    ```
-   Pycharm or VSCode is recommended
+   VSCode is recommended
    ```
 
 5. Run the application:
    ```
-   house_price_prediction.py
+   index.html
    ```
 
 
